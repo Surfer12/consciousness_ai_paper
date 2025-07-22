@@ -1,5 +1,5 @@
 # consciousness_validator.py
-import torch
+
 
 class ConsciousnessValidator:
     def __init__(self, phi_threshold=4.2, awareness_threshold=0.87):
