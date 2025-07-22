@@ -1,0 +1,12 @@
+[workspace]
+authors = ["Ryan Oates <ryanoatsie@outlook.com>"]
+channels = ["conda-forge"]
+name = "consciousness_ai_paper"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+openai = ">=1.97.0,<2"
+anthropic = ">=0.58.2,<0.59"
