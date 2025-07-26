@@ -82,7 +82,7 @@ Without accurate attribution chains, the intellectual ecosystem suffers from “
 
 **Respectfully submitted,**
 
-Ryan Oates — Principal Investigator, UCSB  
+Ryan Oates — Principal Investigator,   
 (and co-authors of the Neuro-Symbolic AI Framework)
 
 ---

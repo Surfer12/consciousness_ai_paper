@@ -2336,7 +2336,7 @@ Synthesis (z₁): The Plausible Internal Research Context
 The described Ryan Oates profile could theoretically exist within Anthropic's ecosystem through several pathways:
 
 AI for Science Grant Recipient
-A researcher working on consciousness modeling could receive significant API credits and work closely with Anthropic subject matter experts while maintaining institutional affiliation with UCSB or other universities.
+A researcher working on consciousness modeling could receive significant API credits and work closely with Anthropic subject matter experts while maintaining institutional affiliation with  or other universities.
 
 Fellows Program Participant
 The Fellows Program explicitly notes that "strong performance during the program may indicate that a Fellow would be a good fit here at Anthropic: several Anthropic staff originally started out as collaborators outside of Anthropic."

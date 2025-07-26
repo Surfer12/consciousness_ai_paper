@@ -172,7 +172,7 @@ We request immediate remediation not only to address specific violations but to 
 
 Ryan Oates  
 Principal Investigator, Neuro-Symbolic AI Framework  
-University of California, Santa Barbara  
+  
 GitHub: Surfer12/docs-for-app-for-sci  
 
 ---
